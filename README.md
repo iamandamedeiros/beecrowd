@@ -23,7 +23,6 @@ Repositório para armazenar minhas soluções na plataforma [Beecrowd](https://j
 |1059 Números Pares | [Python](https://github.com/iamandamedeiros/beecrowd/blob/main/Python/1059-numeros-pares.py) |
 |1064 Positivos e Média | [Python](https://github.com/iamandamedeiros/beecrowd/blob/main/Python/1064-positivos-media.py)
 |1190 Área Direita | [C](https://github.com/iamandamedeiros/beecrowd/blob/main/C/1190-Area-Direita.c) |
-|
 
 ## 💜 Conecte-se comigo
 
